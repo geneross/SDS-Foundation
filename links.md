@@ -1,8 +1,7 @@
 * WASM 
-  [WASM Inrto](https://m.youtube.com/watch?v=HktWin_LPf4)
+  * [WASM Inrto](https://m.youtube.com/watch?v=HktWin_LPf4)
 
-
- * Kotlin
+* Kotlin
   - multidev
     - [KotlinConf 2018 - iOS Architecture with Multiplatform by Kevin Galligan](https://www.youtube.com/watch?v=Dul17VSiejo)
   - Native  
